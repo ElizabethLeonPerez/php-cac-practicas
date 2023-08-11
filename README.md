@@ -4,9 +4,11 @@ Codo a codo 23586
 ## HTML
 
 ### Etiquetas contenedoras:
-<header>
-<main>
-<footer>
+Son de estructuración.
+
+<header> Cabecera
+<main> Contenido principal
+<footer> Pie de página
 
 Etiquetas en bloque: Ocupan el 100% de su contenedor padre
 
