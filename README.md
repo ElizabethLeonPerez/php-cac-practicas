@@ -12,4 +12,15 @@ Son de estructuración.
 
 Etiquetas en bloque: Ocupan el 100% de su contenedor padre
 
-2/22.57
+Alt + Z para hacer wrap en vscode
+
+Si me posiciono en la etiqueta presionando alt puedo selecionar diferentes lineas
+
+El h1 no se debe repertir en un misma pa´gina
+Los otros h sí, a necesidad del contenido
+ 
+
+Estructura de la página: etiquetas semanticas
+Div y span para estilos
+ 
+IMG son etiquetas en linea y abierta
