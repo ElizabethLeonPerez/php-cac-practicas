@@ -9,6 +9,7 @@ Son de estructuración.
 <header> Cabecera
 <main> Contenido principal
 <footer> Pie de página
+nav etiqueta semantica
 
 Etiquetas en bloque: Ocupan el 100% de su contenedor padre
 
@@ -24,3 +25,15 @@ Estructura de la página: etiquetas semanticas
 Div y span para estilos
  
 IMG son etiquetas en linea y abierta
+
+El atributo que muestra la imagen es SRC y el que redirige HREF
+
+
+Div vs Section
+
+Section más para secciones con titulo, es una pedazo independiente
+Div es para contenido variado, para cuando tenes que agrupar elementos
+
+
+El article tiene header, footer y h1 propio, independiente de la página donde se encuentre
+
