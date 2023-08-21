@@ -38,3 +38,7 @@ Div es para contenido variado, para cuando tenes que agrupar elementos
 El article tiene header, footer y h1 propio, independiente de la página donde se encuentre
 
 para gitignore, solo poner la barra ante del nombre de la carpeta
+
+SEO - buenas practicas
+
+poner # en el nav header te recarga la pagina
