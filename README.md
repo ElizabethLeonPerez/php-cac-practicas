@@ -42,3 +42,14 @@ para gitignore, solo poner la barra ante del nombre de la carpeta
 SEO - buenas practicas
 
 poner # en el nav header te recarga la pagina
+
+
+git push -u origin <branch>
+
+p es en bloque
+
+
+para los iconos necesito un tamaño de 16 px aprox, que no sea muy grande porque se vuelve pesado.
+
+
+El favicon tiene que aparecer con una estrellita para darse cuenta que la pagina lo reconocio
