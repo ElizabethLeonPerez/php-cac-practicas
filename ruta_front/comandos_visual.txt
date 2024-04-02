@@ -1,7 +1,0 @@
-ctrol+s= guardar
-ctrol+c= copiar
-ctrol+v= pegar
-ctrol+x=cortar
-ctrol+a=seleccionar todo
-ctrol+z=deshacer un cambio hecho
-ctrol+y=rehacer un cambio
